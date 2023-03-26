@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Joaquin",
+      "telefono": 102013313,
+      "email": "joaquin@joaquin.com",
+      "empresa": "Software Joaquin"
+    },
+    {
+      "nombre": "Karen ACT",
+      "empresa": "Software Joaquin",
+      "email": "karen@gmail.com",
+      "telefono": "138198313",
+      "notas": "Nueva nota",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Tiziano",
+      "telefono": 319381983,
+      "email": "tiziano@gmail.com",
+      "empresa": "Software Joaquin"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@gmail.com",
+      "empresa": "Software Joaquin"
+    },
+    {
+      "nombre": "Joaquinf",
+      "empresa": "Codigojoa",
+      "email": "joakoproboom@gmail.com",
+      "telefono": "3513117202",
+      "notas": "El cliente desea un e-commerc",
+      "id": 6
+    }
+  ]
+}
